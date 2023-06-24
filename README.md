@@ -2,9 +2,9 @@
 Simple Ethereum ERC-20 token project for managing and transferring tokens.
 
 ## Token Details
-Token Name: EzCoin
-Token Symbol: EZC
-Decimals: 18
+- Token Name: EzCoin
+- Token Symbol: EZC
+- Decimals: 18
 
 ## Functions
 - totalSupply(): Returns the total supply of tokens.
@@ -20,4 +20,3 @@ Decimals: 18
 
 
 Note: This is a basic token contract and may not include all the features required for a production-ready implementation.
-}
