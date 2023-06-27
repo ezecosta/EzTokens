@@ -2,7 +2,7 @@
 pragma solidity >=0.7.0 <0.9.0;
 
 
-contract BasicToken{
+contract EzTokens{
     string public constant name = 'EzCoin';
     string public constant symbol = 'EZC';
     uint8 public constant decimals = 18;
